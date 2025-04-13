@@ -1,0 +1,98 @@
+This feature doesn’t work as expected.
+I’m disappointed with the latest update.
+Unfortunately, this is not helpful at all.
+I encountered too many errors.
+This is very frustrating to use.
+Poor experience, needs improvement.
+It keeps crashing every time I try.
+The instructions are not clear.
+This is a waste of time.
+Nothing works properly, very disappointed.
+Too many bugs in the system.
+The process is confusing and slow.
+Unexpected errors ruin the experience.
+Customer support is unhelpful.
+The interface is outdated and clunky.
+Performance is far below expectations.
+It feels incomplete and rushed.
+I’m losing patience with this tool.
+Not as reliable as advertised.
+Hard to figure out basic functions.
+Major glitches keep happening.
+The app freezes constantly.
+Navigation is not intuitive.
+The system lags too much.
+Can’t get anything done with this tool.
+Very poor customer service experience.
+Frustrating lack of clarity.
+Requires too many steps.
+Error messages are not helpful.
+Wasted so much time on this.
+Features are overly complicated.
+Everything feels broken.
+I expected much better quality.
+It’s overly complicated for simple tasks.
+Regret using this platform.
+Very disappointed overall.
+Crashes every few minutes.
+Nothing saves properly.
+Difficult to use and unreliable.
+The learning curve is too steep.
+Over-promised, under-delivered.
+No improvements in this version.
+Fails to deliver consistent results.
+Disappointing update overall.
+Issues have not been resolved.
+The experience is disheartening.
+Can’t recommend this to anyone.
+The tool feels abandoned.
+Progress is painfully slow.
+Missing key features.
+Lack of helpful resources.
+Support team is unresponsive.
+Very buggy and unstable.
+Data accuracy is questionable.
+Instructions are confusing.
+Feels incomplete and poorly tested.
+Overall, a frustrating experience.
+Performance is getting worse.
+Too many pop-up errors.
+No clear direction for users.
+Interface is cluttered.
+Very disappointed with the speed.
+Data does not sync properly.
+Cannot rely on this tool.
+Major functions are broken.
+Every update introduces new issues.
+The tool feels outdated.
+There is no customer support follow-up.
+Missing basic functionality.
+Tasks take too long to complete.
+The app is glitchy and slow.
+Unintuitive design choices.
+Difficult to trust the results.
+Requires too much manual input.
+This tool wastes my time.
+The process is inefficient.
+Very hard to navigate.
+Serious stability issues.
+Notifications are unreliable.
+Interface is confusing.
+I can’t figure out how to use it.
+Reporting is not clear.
+Crashes during setup process.
+Fails to meet expectations.
+Inconsistent behavior across devices.
+Training materials are insufficient.
+No troubleshooting options.
+Doesn’t save my progress.
+System timeout issues.
+Functionality is limited.
+Not helpful for my needs.
+Gives inaccurate results.
+The tool is a hassle to use.
+Disappointing lack of updates.
+Too many hurdles to be useful.
+The whole experience feels broken.
+
+
