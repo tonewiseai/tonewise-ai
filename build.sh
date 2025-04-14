@@ -1,8 +1,11 @@
 #!/usr/bin/env bash
 
-# Upgrade pip
-pip3 install --upgrade pip
+# Install Python if not already
+apt-get update && apt-get install -y python3 python3-pip
+
+# Upgrade pip for Python 3
+python3 -m pip install --upgrade pip
 
 # Install from requirements.txt
-pip3 install -r requirements.txt
+python3 -m pip install -r requirements.txt
 
