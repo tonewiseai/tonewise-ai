@@ -4,7 +4,8 @@ services:
     env: python
     plan: free
     pythonVersion: 3.11
-    buildCommand: ""
+    buildCommand: "pip install -r requirements.txt"
     startCommand: "python3 tonewise_ai_microservice.py"
+
 
 
