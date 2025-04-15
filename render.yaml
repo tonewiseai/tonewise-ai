@@ -4,8 +4,9 @@ services:
     env: python
     plan: free
     pythonVersion: 3.11
-    buildCommand: "./build.sh"
+    buildCommand: "bash build.sh"
     startCommand: "python3 tonewise_ai_microservice.py"
+
 
 
 
