@@ -10,10 +10,6 @@ from collections import defaultdict
 model_path = 'tonewise_ai_model/tonewise_model.pkl'
 vectorizer_path = 'tonewise_ai_model/tonewise_vectorizer.pkl'
 
-model_path = '/home/twai/mysite/tonewise_model.pkl'
-vectorizer_path = '/home/twai/mysite/tonewise_vectorizer.pkl'
-
-
 # === Initialize App ===
 app = Flask(__name__)
 
