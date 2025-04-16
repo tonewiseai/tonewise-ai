@@ -10,6 +10,10 @@ from collections import defaultdict
 model_path = 'tonewise_ai_model/tonewise_model.pkl'
 vectorizer_path = 'tonewise_ai_model/tonewise_vectorizer.pkl'
 
+# Load the pre-trained model and vectorizer
+model = joblib.load(model_path)
+vectorizer = joblib.load(vectorizer_path)
+
 # === Initialize App ===
 app = Flask(__name__)
 
