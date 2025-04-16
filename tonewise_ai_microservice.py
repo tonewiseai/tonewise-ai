@@ -7,8 +7,8 @@ import os
 from collections import defaultdict
 
 # === Load Models ===
-model_path = 'tonewise_ai_model/tonewise_model.pkl'
-vectorizer_path = 'tonewise_ai_model/tonewise_vectorizer.pkl'
+model_path = 'tonewise_model/tonewise_model.pkl'
+vectorizer_path = 'tonewise_model/tonewise_vectorizer.pkl'
 
 # Load the pre-trained model and vectorizer
 model = joblib.load(model_path)
