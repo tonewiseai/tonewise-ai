@@ -1,4 +1,5 @@
 # tonewise_ai_microservice.py
+print("🔥 Running tonewise_ai_microservice.py")
 
 from flask import Flask, request, jsonify
 import joblib
