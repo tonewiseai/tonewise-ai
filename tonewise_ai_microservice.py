@@ -11,6 +11,10 @@ from collections import defaultdict
 model_path = 'tonewise_model.pkl'
 vectorizer_path = 'tonewise_vectorizer.pkl'
 
+print("Loading model and vectorizer...")
+print(f"Model path: {model_path}")
+print(f"Vectorizer path: {vectorizer_path}")
+
 # === Try to Load the Pre-trained Model and Vectorizer ===
 try:
     model = joblib.load(model_path)
