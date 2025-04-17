@@ -77,9 +77,13 @@ def analyze_comment():
     if not comment:
         return jsonify({'error': 'No comment provided'}), 400
 
-    try:
-        result = analyze_comment_core(comment, commenter_id)
-        return jsonify(result)
+try:
+    if model is None or vectorizer is None:
+        print(f"DEBUG: model=(model), vectorizer={vectorizer}")
+        return jsonify({'error': 'Model or vectorizer not loaded'}), 500
+    result = analyze_comment_core(comment, commenter_id)
+    return jsonify(result)
+
     except Exception as e:
         print(f"Error analyzing comment: {e}")
         return jsonify({'error': 'Failed to analyze comment', 'details': str(e)}), 500
