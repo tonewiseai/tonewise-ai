@@ -69,6 +69,8 @@ def analyze_comment_core(comment, commenter_id='anonymous'):
 @app.route('/analyze-comment', methods=['POST'])
 def analyze_comment():
     data = request.get_json()
+    print("/analyze-comment endpoint hit")
+    print("Received data:", data)
     comment = data.get('comment')
     commenter_id = data.get('name', 'anonymous')
 
