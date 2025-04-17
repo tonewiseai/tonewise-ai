@@ -52,7 +52,7 @@ def update_profile(commenter_id, prediction):
 
 # === Core Comment Analysis Function ===
 def analyze_comment_core(comment, commenter_id='anonymous'):
-    vector = vectorizer.transform([comment])
+    vector = vectorizer.transform(comment)
     prediction = model.predict(vector)[0]
     probability = int(np.max(model.predict_proba(vector)) * 100)
     casing = analyze_casing(comment.strip())
